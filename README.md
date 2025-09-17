@@ -33,7 +33,7 @@ You can install **npm** with Node.js. If you don't have it installed yet, you ca
    Insert the following lines:
 
    ```bash
-   127.0.0.1       local.pixelbinz0.de
+
    127.0.0.1       local.sdk.glamar.io
    ```
 
@@ -44,7 +44,7 @@ Open and edit `/etc/hosts`.
 Insert the following lines:
 
 ```bash
-127.0.0.1       local.pixelbinz0.de
+
 127.0.0.1       local.sdk.glamar.io
 ```
 
